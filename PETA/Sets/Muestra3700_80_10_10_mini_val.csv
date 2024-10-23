@@ -1,0 +1,25 @@
+,Image Data ID,Subject,Group,Sex,Age,Visit,Modality,Description,Type,Acq Date,Format,Downloaded
+0,I26912,011_S_0010,AD,F,74,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,11/14/2005,DCM,1/09/2023
+1,I364379,013_S_5071,AD,M,76,v03,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/12/2013,DCM,11/28/2022
+2,I31592,100_S_0743,AD,M,86,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/28/2006,DCM,12/02/2022
+3,I58169,053_S_1044,AD,M,66,m06,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/04/2007,DCM,11/29/2022
+4,I397718,018_S_5240,AD,F,63,v03,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/01/2013,DCM,11/29/2022
+5,I58976,094_S_1090,AD,M,72,m06,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/02/2007,DCM,12/02/2022
+6,I114393,128_S_0266,AD,M,88,m24,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/15/2008,DCM,11/29/2022
+7,I42653,057_S_0474,AD,F,78,m06,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/19/2006,DCM,12/02/2022
+55,I273896,022_S_4320,CN,F,71,v03,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/09/2011,DCM,12/02/2022
+56,I317944,019_S_4835,CN,M,79,v03,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,7/24/2012,DCM,12/02/2022
+57,I28594,128_S_0245,CN,F,74,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/04/2006,DCM,12/02/2022
+58,I84995,100_S_0047,CN,M,87,m24,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/11/2007,DCM,12/02/2022
+59,I106511,131_S_0123,CN,M,76,m24,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,5/08/2008,DCM,11/28/2022
+60,I164029,041_S_1002,CN,F,80,m36,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,12/17/2009,DCM,12/02/2022
+61,I111765,099_S_0534,CN,M,65,m24,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/16/2008,DCM,11/28/2022
+62,I82441,029_S_0866,CN,F,81,m12,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/30/2007,DCM,1/09/2023
+149,I280073,024_S_4392,EMCI,M,83,v03,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,1/20/2012,DCM,1/09/2023
+150,I136628,057_S_1265,MCI,F,84,m24,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,2/19/2009,DCM,1/09/2023
+151,I1039366,128_S_2220,EMCI,M,90,init,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/13/2018,DCM,12/02/2022
+152,I26334,005_S_0546,MCI,M,80,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,6/30/2006,DCM,1/09/2023
+153,I365915,129_S_2332,EMCI,F,73,v11,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,3/18/2013,DCM,11/28/2022
+154,I1039362,116_S_6550,MCI,F,56,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,8/20/2018,DCM,1/09/2023
+155,I1256889,016_S_6789,MCI,F,79,bl,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,10/21/2019,DCM,11/28/2022
+156,I77248,137_S_0669,MCI,M,65,m12,PET,"Coreg, Avg, Std Img and Vox Siz, Uniform Resolution",Processed,9/24/2007,DCM,1/09/2023

@@ -1,0 +1,43 @@
+{
+    "imagesFolder": "/home/eiarussi/Proyectos/Fleni/ADNI-MUESTRA-FULL-stripped-preprocessed3",
+    "fleniImagesFolder": "/home/eiarussi/Proyectos/Fleni/fleni-stripped-preprocessed3",
+    "trainDatasetCSV": "../Sets/Muestra3700_80_10_10_dxlast_train.csv",
+    "valDatasetCSV": "../Sets/Muestra3700_80_10_10_dxlast_val.csv",
+    "fleniValDatasetCSV": "../Sets/fleni-myriam-curated.csv",
+    "experimentName": "muestraFull3700_7_dxlast_2classes",
+    "experimentOutputFolder": "/home/eiarussi/Proyectos/Fleni/Experimentos/muestraFull3700_7",
+    "experimentDescription": "Experimento usando el dxlast con 2 clases",
+    "executions": 1,
+    "model_name": "inception",
+    "num_classes": 2,
+    "batch_size": 32,
+    "dl_num_workers": 4,
+    "num_epochs": 50,
+    "feature_extract": false,
+    "usePretrained": true,
+    "auxEnabled": true,
+    "learningRate": 0.0001,
+    "dropoutRate": 0.6,
+    "trainElements": [ 765.0, 1039.0, 1229.0 ],
+    "trainMean": 0.17155274981780977,
+    "trainStd": 0.39358714727689015,
+    "deviceName": "cuda:1",
+    "dataAugmentation": {
+        "angle": 8,
+        "shiftX": 10,
+        "shiftY": 10,
+        "zoom": 0.1,
+        "shear": 0.19634954084936207
+    },
+    "selectCriteria": "accuracy",
+    "validationCacheSize": 0,
+    "trainCacheSize": 0,
+    "calculateAUCROC": true,
+    "debug": false,
+    "doTrain": true,
+    "selectCriteriaAbbrv": {
+        "accuracy": "acc",
+        "f1AD": "f1AD"
+    },
+    "truthLabel": "DX_last"
+}

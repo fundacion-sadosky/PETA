@@ -1,0 +1,43 @@
+{
+    "imagesFolder": "/home/eiarussi/Proyectos/Fleni/ADNI-MUESTRA-FULL-stripped-preprocessed3",
+    "fleniImagesFolder": "/home/hugom/Tesis/Imagenes/fleni-stripped-preprocessed3",
+    "trainDatasetCSV": "../Sets/Muestra3700_80_10_10_train.csv",
+    "valDatasetCSV": "../Sets/Muestra3700_80_10_10_val.csv",
+    "fleniValDatasetCSV": "../Sets/fleni-myriam-curated.csv",
+    "experimentName": "muestraFull3700_6",
+    "experimentOutputFolder": "/home/eiarussi/Proyectos/Fleni/Experimentos/muestraFull3700_6",
+    "experimentDescription": "Prueba con feature extract",
+    "executions": 1,
+    "model_name": "inception",
+    "num_classes": 3,
+    "batch_size": 32,
+    "dl_num_workers": 4,
+    "num_epochs": 50,
+    "feature_extract": true,
+    "usePretrained": true,
+    "auxEnabled": true,
+    "learningRate": 0.0001,
+    "dropoutRate": 0.6,
+    "trainElements": [759.0,444.0,1717.0],
+    "trainMean": 0.1716601789041244,
+    "trainStd": 0.3936839672084841,
+    "deviceName": "cuda:0",
+    "dataAugmentation": {
+        "angle": 8,
+        "shiftX": 10,
+        "shiftY": 10,
+        "zoom": 0.1,
+        "shear": 0.19634954084936207
+    },
+    "selectCriteria": "accuracy",
+    "validationCacheSize": 0,
+    "trainCacheSize": 0,
+    "calculateAUCROC": true,
+    "debug": false,
+    "doTrain": true,
+    "selectCriteriaAbbrv": {
+        "accuracy": "acc",
+        "f1AD": "f1AD"
+    },
+    "truthLabel": "Group"
+}
